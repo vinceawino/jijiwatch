@@ -1,0 +1,32 @@
+.signin-info .logopanel .logo{
+	/*background-image: url(../images/SojaTitled.png);*/
+	width: 35%;
+}
+
+.signinpanel .logopanel {
+    text-align: center;
+}
+
+.btn-soja-default {
+    background-color: #483737;
+    border-color: #483737;
+}
+
+.btn-soja-default:hover {
+    background-color: #554D4D;
+    border-color: #665859;
+}
+
+a:hover, a:focus {
+    color: #E14326;
+    text-decoration: underline;
+}
+
+a {
+    color: #E14326;
+    text-decoration: none;
+}
+
+body.notfound, body.signin {
+    background: rgba(72, 55, 55, 0.2);
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3879617128">
+    <data-source source="LOCAL" name="PostgreSQL - jijiwatch@localhost" uuid="a45c95ec-fd87-4cf2-860b-9508f8529541">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/jijiwatch</jdbc-url>
+    </data-source>
+  </component>
+</project>

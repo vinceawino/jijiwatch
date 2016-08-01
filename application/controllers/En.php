@@ -43,9 +43,16 @@ class En extends CI_Controller{
 
         }
     }
+    public function map_view(){
+        if($this->session->userdata('is_loggedin')){
+            $this->load->view('map');
+        }else{
+            $this->login();
+        }
+    }
     public function dashboard(){
         if($this->session->userdata('is_loggedin')){
-            $this->load->view('map_view');
+           $this->incidents("pending");
         }else{
             $this->login();
         }

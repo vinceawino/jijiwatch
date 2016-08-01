@@ -57,7 +57,7 @@
 
             <h5 class="sidebartitle">Navigation</h5>
             <ul class="nav nav-pills nav-stacked nav-bracket">
-                <li class="active"><a href="http://localhost/jijiwatch/index.php/en/dashboard"><i class="fa fa-home"></i> <span>Map View</span></a></li>
+                <li class="active"><a href="http://localhost/jijiwatch/index.php/en/map_view"><i class="fa fa-home"></i> <span>Map View</span></a></li>
                 <li class="nav-parent"><a href="#"><i class="fa fa-edit"></i> <span>Incidents</span></a>
                     <ul class="children">
                         <li><a href="http://localhost/jijiwatch/index.php/en/incidents/pending"><i class="fa fa-caret-right"></i>Pending</a></li>
